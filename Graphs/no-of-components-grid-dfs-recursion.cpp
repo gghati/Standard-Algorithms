@@ -8,28 +8,33 @@ using namespace std;
 
 /*
 
-Shortest path from A to B in Array graphs
+1) NUMBER OF GRAPH COMPONENT by DFS SEARCH
+
+INPUT:
+5 8
+########
+#..#...#
+####.#.#
+#..#...#
+########
 
 
-
-
+OUTPUT:
+3
 
 */
 
 const int MAX=1e3;
 
-int n, m, ai, aj, bi, bj;
+int n, m;
 string s[MAX];
-
-string str;
 
 bool e(int i, int j) {
 	return (i>=0 && i<n && j>=0 && j<m && s[i][j]=='.');
 }
 
 void dfs(int i, int j) {
-	if(s[i][j]=='B') flag=true;
-	else s[i][j]='#';
+	s[i][j]='#';
 	if(e(i+1, j))
 		dfs(i+1, j);
 	if(e(i, j+1))
@@ -38,6 +43,7 @@ void dfs(int i, int j) {
 		dfs(i-1, j);
 	if(e(i, j-1))
 		dfs(i, j-1);
+	
 }
 
 int main(){
@@ -45,19 +51,13 @@ int main(){
     
     cin >> n >> m;
 
-    for(int i=0; i<n; i++) {
+    for(int i=0; i<n; i++)
     	cin >> s[i];
-    	if(s[i] == 'A'){
-    		
-    	} else if (s[i] == 'B') {
-    		
-    	}
-    }
     	
     int ans=0;
     for(int i=0;i<n;i++)
  	   for(int j=0; j<m; j++)
-		if(s[i][j] == 'A')
+		if(e(i, j))
 			dfs(i, j), ++ans;
     
     cout << ans << "\n";
