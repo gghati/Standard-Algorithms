@@ -7,11 +7,11 @@
 # Graphs Algorithms
 
 ### 1) Searching Graphs
- - DFS ->  **Connected Components, Coloring components**
- - BFS
+ - DFS ->  **Connected Components, Coloring components** ✔️
+ - BFS ✔️
 
 ### 2) Shortest Path Problem
-- BFS
+- BFS ✔️
 - Dijkstra's
 - Bellman-ford
 
