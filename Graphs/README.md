@@ -28,7 +28,8 @@
 - Branch and bound
 - and many approxiation algorithms
 
-### 6) Bridges
+### 6) Bridges 
+- DFS No of Components ✔️
 
 ### 7) Articulation points
 
