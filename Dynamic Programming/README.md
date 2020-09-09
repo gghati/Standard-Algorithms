@@ -1,43 +1,21 @@
-# Graphs Representations:
+# Dynamic Programming
 
--  Adjacency Matrix / Grid
--  Adjacency List / list
+### 1) 0-1 knapsack - (6 Algos)
 
+### 2) Unbounded Knapsack (5 Algos)
 
-# Graphs Algorithms
+### 3) Fibonnaci (7 Algos)
 
-### 1) Searching Graphs
- - DFS ->  **Connected Components, Coloring components** ✔️
- - BFS ✔️
+### 4) Longest Common Subsequence (15 Algos)
 
-### 2) Shortest Path Problem
-- BFS ✔️
-- Dijkstra's
-- Bellman-ford
+### 5) Longest Increasing Subsequence (10 Algos)
 
-### 3) Negative Cycle
-- Bellman-Ford
-- Floyd-Warshall
+### 6) Kadane's Algorithms (6 Algos)
 
-### 4) Stronly Connected components
-- Tarjan's Algo
-- Kosaraju's Algo
+### 7) Matrix Chain Multiplication (7 Algos)
 
-### 5) Traveling Salesman Problem
-- Held-Karp
-- Branch and bound
-- and many approxiation algorithms
+### 8) DP on trees (4 Algos)
 
-### 6) Bridges 
-- DFS No of Components ✔️
+### 9) DP on Grid (14 Algos)
 
-### 7) Articulation points
-
-### 8) Minimum Spanning Tree
-- Krushal's 
-- Prim's
-
-### 9) Maximum Flow Networks
-- Ford-Fulkersor
-- Edmond-karp
-- Dinic's Algorithms
+### 10) Others (5 Algos)
