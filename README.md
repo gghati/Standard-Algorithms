@@ -20,7 +20,19 @@
 - Sets	
 - Priority Queues
 
-### 4) Graphs Algorithms
+### 4) Dynamic Programming
+- 0-1 knapsack - (6 Algos)
+- Unbounded Knapsack (5 Algos)
+- Fibonnaci (7 Algos)
+- Longest Common Subsequence (15 Algos)
+- Longest Increasing Subsequence (10 Algos)
+- Kadane's Algorithms (6 Algos)
+- Matrix Chain Multiplication (7 Algos)
+- DP on trees (4 Algos)
+- DP on Grid (14 Algos)
+- Others (5 Algos)
+
+### 5) Graphs Algorithms
 - Searching Graphs 
 - Shortest Path Problem
 - Negative Cycle
