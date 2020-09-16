@@ -1,6 +1,11 @@
 # Dynamic Programming
 
 ### 1) 0-1 knapsack - (6 Algos)
+- Subset sum Problem
+- Equal Sum Partition
+- Count of Subset sum
+- Minimum Subset sum diff
+- Target sum
 
 ### 2) Unbounded Knapsack (5 Algos)
 
