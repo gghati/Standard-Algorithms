@@ -8,10 +8,17 @@
 - Target sum
 
 ### 2) Unbounded Knapsack (5 Algos)
+- Rod cutting Problem
+- Coin Change problem (Max num of ways and min number of ways)
 
 ### 3) Fibonnaci (7 Algos)
 
 ### 4) Longest Common Subsequence (15 Algos)
+- Longest common substring
+- print LCS
+- Shortest common substring
+- print SCS
+- 
 
 ### 5) Longest Increasing Subsequence (10 Algos)
 
