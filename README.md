@@ -4,11 +4,11 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 ## Few Rules which You must follow to contribute to this repo: 
 1) only Members of this Organizations can make pull request(PR) to this repo
 2) Fork the repo to your profile.
-3) Create a issue, and let us know which algorithm you are planning to add in the PR(you must have atleast 2 algos in a PR).
-3) Add the algorithm or code to your forked repo, just make sure algo shouldn't be already present in the repo.
+3) Create a issue, and let us know which algorithm you are planning to add in the PR (you must have atleast 2 algos in a PR).
+3) Add the algorithm or code to your forked repo, just make sure, algo shouldn't be already present in the repo.
 4) Don't copy paste the algorithms from anywhere.
-5) Include 2 sample output and input in the comments.
-6) UPDATE THE README.md to and you Algorithm in it.
+5) Include 2 sample output and input in the comments of the code file.
+6) update the README.md and add the Algorithm.
 7) We'll approve atmost **3 PRs from a member**.
 8) Once you are done, we will review your PR and merge it with master.
 
