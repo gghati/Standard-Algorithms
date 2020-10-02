@@ -17,22 +17,22 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 
 ### 1) Basic Algos
 ###### Bitwise
-    change-bit-status.cpp
-    subset-sum-bf-dp-algo.cpp
-    tricks.cpp
-  kadane's-algorithm-subarray-sum-problem.cpp
-  max-area-O(n2).cpp
-  max-area-stack-O(n).cpp
-  missing-and-duplicate-number-maths-O(1).cpp
-  nearest-smaller-number-stack-O(n).cpp
-  stack-matching-parentesis.cpp
-  subarray-sum-value-k-O(n).cpp
-  sum-four-element-equal-k-array.cpp
-  sum-three-element-equal-k-array.cpp
-  two-pointer-sliding-window-O(n).cpp
-  upper-lower-bound.cpp
-  push.sh
-  README.md
+            change-bit-status.cpp
+            subset-sum-bf-dp-algo.cpp
+            tricks.cpp
+      kadane's-algorithm-subarray-sum-problem.cpp
+      max-area-O(n2).cpp
+      max-area-stack-O(n).cpp
+      missing-and-duplicate-number-maths-O(1).cpp
+      nearest-smaller-number-stack-O(n).cpp
+      stack-matching-parentesis.cpp
+      subarray-sum-value-k-O(n).cpp
+      sum-four-element-equal-k-array.cpp
+      sum-three-element-equal-k-array.cpp
+      two-pointer-sliding-window-O(n).cpp
+      upper-lower-bound.cpp
+      push.sh
+      README.md
   
 ### 2) Recursion
 ###### Basic Recursion
@@ -47,30 +47,31 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     sort-stack.cpp
     string-manipulation.cpp
     tower-of-hanoi.cpp
+    
 ###### Divide and conquer
     maximum-subarray-sum-O(nlogn).cpp
     merge-sort-O(nlogn).cpp
     quick-sort-O(n2).cpp
+    
 ###### Dynamic Programming
-  basic-fabonic.cpp
-  1) grid-path
-    first-row-cell-to-last-row-cell.cpp
-    minimum-cost-of-path-numbered-grid-better.cpp
-    minimum-cost-of-path-numbered-grid.cpp
-  2) knapsack
-      basic-knapsack-max-profit-dp.cpp
-      basic-knapsack-max-profit-recursion.cpp
-      count-target-subset-sum-problem.cpp
-      equal-partition-sum-problem.cpp
-      minimum-partition-sum-difference-problem.cpp
-      min-number-coin-make-the-given-sum.cpp
-      no-of-ways-unlimited-coin.cpp
-      order-unbounded-knapsack-coin-1.cpp
-      order-unbounded-knapsack-coin.cpp
-      target-subset-sum-problem.cpp
-  3) longest-common-sequences
-      longest-common-subsequence.cpp
-      README.md
+      1) grid-path
+            first-row-cell-to-last-row-cell.cpp
+            minimum-cost-of-path-numbered-grid-better.cpp
+            minimum-cost-of-path-numbered-grid.cpp
+      2) knapsack
+          basic-knapsack-max-profit-dp.cpp
+          basic-knapsack-max-profit-recursion.cpp
+          count-target-subset-sum-problem.cpp
+          equal-partition-sum-problem.cpp
+          minimum-partition-sum-difference-problem.cpp
+          min-number-coin-make-the-given-sum.cpp
+          no-of-ways-unlimited-coin.cpp
+          order-unbounded-knapsack-coin-1.cpp
+          order-unbounded-knapsack-coin.cpp
+          target-subset-sum-problem.cpp
+      3) longest-common-sequences
+          longest-common-subsequence.cpp
+          README.md
       
 ### 3) searching and Sorting
     bsearch-O(logn).cpp
