@@ -6,7 +6,12 @@ using namespace std;
 # define ff first
 # define ss second
 
-// Maximum Subarray Sum => DIVIDE AND CONQUER => O(nlogn)
+// THIS CODE IS OF// Maximum Subarray Sum => DIVIDE AND CONQUER => O(nlogn)
+// bf => O(n3)
+// prefix sum then checking for each ele that any number can sum to the => O(n2)
+// kadane's algorithm => O(n)
+
+
 
 int three_max(int a, int b, int c) { return max( max(a, b), c ); } 
 
