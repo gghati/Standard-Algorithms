@@ -86,6 +86,8 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     maps-string-pair-string-int.cpp
     priority_queue.cpp
     sets-subarray-partition-O(n).cpp
+    stack.cpp
+    set.cpp
 ### 5) Trees and Graphs
   ###### Graphs Algos
       bfs-shorteat-path-grid.cpp
