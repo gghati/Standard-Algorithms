@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h> 
- int n;
+int n;
 
 void printSolution(int board[n][n])
 {
