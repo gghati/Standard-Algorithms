@@ -1,6 +1,8 @@
 #include <stdio.h>
-#include <stdbool.h> 
-int n;
+#include <stdbool.h>
+#define n 8
+ 
+
 
 void printSolution(int board[n][n])
 {
@@ -86,7 +88,7 @@ void solvenQ()
 int main()
 {
     printf("Enter the size of the board, ie value of n:\n");
-    scanf("%d",&n);
+   // scanf("%d",&n);
     solvenQ();
     return 0;
 }
