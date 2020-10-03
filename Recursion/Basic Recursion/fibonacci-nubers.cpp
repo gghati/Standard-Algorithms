@@ -10,7 +10,8 @@ int fib(int n){
 	}
 }
 int main(){
-	int n=5;
+	int n;
+    cin >> n;
 	cout << fib(n) << endl;
 	return 0;
 }
