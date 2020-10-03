@@ -1,14 +1,7 @@
 #include <stdio.h>
-<<<<<<< HEAD
 #include <stdbool.h>
 #define n 8
  
-
-=======
-#include <stdbool.h> 
-const int n;
->>>>>>> 17cf43543d705581c9a7ae50667aa8488472b1ea
-
 void printSolution(int board[n][n])
 {
     static  int k = 1;
