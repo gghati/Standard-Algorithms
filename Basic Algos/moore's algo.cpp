@@ -6,10 +6,10 @@
 //of such element  if the count gets equal to zero at start it will be positive at the end . For better understanding do some dry runs.
 
 //IP1 : 3 2 3
-//OP1 : 3
+//OP1 : 3(count=2)
 
 //IP2 : 7 7 5 7 5 1 5 7 5 5 7 7 5 5 5 5
-//OP2 : 7
+//OP2 : 5(count=9)
 
 #include <bits/stdc++.h>
 using namespace std;
