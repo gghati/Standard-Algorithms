@@ -80,6 +80,8 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     merge-sort-O(nlogn).cpp
     quick-sort-O(n2).cpp
     Selection-sort-Recursion-O(n2).cpp
+    linearSearch.cpp
+    bubble-sort.cpp
 ### 4) STLs
     maps-int-pair.cpp
     maps-ll-pairs.cpp
