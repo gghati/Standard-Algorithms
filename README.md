@@ -9,8 +9,7 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 3) Don't copy paste the algorithms from anywhere.
 4) Include 2 sample output and input in the comments of the code file.
 5) update the README.md and add the Algorithm.
-6) We'll approve atmost **3 PRs from a member**.
-7) Once you are done, we will review your PR and merge it with master.
+6) Once you are done, we will review your PR and merge it with master.
 
 
 ## DIRECTORY STRUCTURE
