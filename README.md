@@ -1,16 +1,16 @@
 # Hacktoberfest-Standard-Algorithms
 This Repo is For those who want to contribute in an open Source Repo for Hacktoberfest.
 
-## Few Rules which You must follow to contribute to this repo: 
-1) only Members of this Organizations can make pull request(PR) to this repo
-2) Fork the repo to your profile.
-3) Create a issue, and let us know which algorithm you are planning to add in the PR (you must have atleast 2 algos in a PR).
-3) Add the algorithm or code to your forked repo, just make sure, algo shouldn't be already present in the repo.
-4) Don't copy paste the algorithms from anywhere.
-5) Include 2 sample output and input in the comments of the code file.
-6) update the README.md and add the Algorithm.
-7) We'll approve atmost **3 PRs from a member**.
-8) Once you are done, we will review your PR and merge it with master.
+## *Contributions Are Welcomed!*
+
+### Few Rules which You must follow to contribute to this repo: 
+1) Fork the repo to your profile.
+2) Add the algorithm or code to your forked repo, just make sure, algo shouldn't be already present in the repo.
+3) Don't copy paste the algorithms from anywhere.
+4) Include 2 sample output and input in the comments of the code file.
+5) update the README.md and add the Algorithm.
+6) We'll approve atmost **3 PRs from a member**.
+7) Once you are done, we will review your PR and merge it with master.
 
 
 ## DIRECTORY STRUCTURE
@@ -82,6 +82,7 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     Selection-sort-Recursion-O(n2).cpp
     linearSearch.cpp
     bubble-sort.cpp
+
 ### 4) STLs
     maps-int-pair.cpp
     maps-ll-pairs.cpp
@@ -90,6 +91,7 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     sets-subarray-partition-O(n).cpp
     stack.cpp
     set.cpp
+
 ### 5) Trees and Graphs
   ###### Graphs Algos
       bfs-shorteat-path-grid.cpp
