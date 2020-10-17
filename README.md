@@ -3,7 +3,7 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 
 ## *Contributions Are Welcomed!*
 
-### Few Rules which You must follow to contribute to this repo: 
+### Contribute to this repo: 
 1) Fork the repo to your profile.
 2) Add the algorithm or code to your forked repo, just make sure, algo shouldn't be already present in the repo.
 3) Don't copy paste the algorithms from anywhere.
