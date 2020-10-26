@@ -32,8 +32,10 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 │   ├── maps-string-pair-string-int.cpp
 │   ├── priority_queue.cpp
 │   ├── set.cpp
+|   |── list.cpp
+|   |── vector.cp
 │   ├── sets-subarray-partition-O(n).cpp
-│   └── stack.cpp
+│   └── stack.cpp  
 ├── Dynamic Programming
 │   ├── basic-fabonic.cpp
 │   ├── binomial-coefficients.cpp
