@@ -1,6 +1,14 @@
 # include <bits/stdc++.h> 
 using namespace std;
 
+/*
+Explaination: we are using basic knapsack fuction and from that we are chaking of every i element from 0 to sum (of the array) 
+whether the subset sum of that i exist in the array or not, if it exist, 
+=> s1 = i and s2 = sum - i
+=> s1-s2 = sum-i-i = sum-2i or 2i-sum
+
+we are finding minimum s1-s2 and returning it
+*/
 
 int knapsack(int arr[], int n, int sum){
 	int dp[n+1][sum+1]; 
