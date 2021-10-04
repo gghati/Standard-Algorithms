@@ -39,6 +39,9 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 |   |── vector.cp
 │   ├── sets-subarray-partition-O(n).cpp
 │   └── stack.cpp  
+├── Strings
+│   ├── Rabin-Karp-Algorithm.cpp
+│   ├── Z-Function.cpp
 ├── Dynamic Programming
 │   ├── basic-fabonic.cpp
 │   ├── binomial-coefficients.cpp
