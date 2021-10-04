@@ -20,6 +20,9 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 │   ├── change-bit-status.cpp
 │   ├── subset-sum-bf-dp-algo.cpp
 │   └── tricks.cpp
+├── Data Structures
+│   ├── DSU.cpp
+│   ├── Mo's-algorithm.cpp
 ├── Divide and conquer
 │   ├── maximum-subarray-sum-O(nlogn).cpp
 │   ├── merge-sort-O(nlogn).cpp
@@ -110,4 +113,6 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     ├── Kruskal-MST.cpp
     ├── a.out
     └── prims-MST.cpp
+    ├── Floyd-Warshall.cpp
+    ├── Kahn's-Topological-Sorting.cpp
 ```
