@@ -36,3 +36,4 @@ int main() {
 		cout << b[i]-1 << " "; 
 	
 	return 0;
+}
