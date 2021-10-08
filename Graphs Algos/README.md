@@ -17,7 +17,7 @@
 
 ### 3) Negative Cycle
 - Bellman-Ford
-- Floyd-Warshall
+- Floyd-Warshall ✔️
 
 ### 4) Stronly Connected components
 - Tarjan's Algo
@@ -41,3 +41,5 @@
 - Ford-Fulkersor
 - Edmond-karp
 - Dinic's Algorithms
+
+### 10) Kahn's Topological Sorting ✔️
