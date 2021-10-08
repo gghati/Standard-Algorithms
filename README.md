@@ -20,6 +20,9 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 │   ├── change-bit-status.cpp
 │   ├── subset-sum-bf-dp-algo.cpp
 │   └── tricks.cpp
+├── Data Structures
+│   ├── DSU.cpp
+│   ├── Mo's-algorithm.cpp
 ├── Divide and conquer
 │   ├── maximum-subarray-sum-O(nlogn).cpp
 │   ├── merge-sort-O(nlogn).cpp
@@ -32,8 +35,18 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 │   ├── maps-string-pair-string-int.cpp
 │   ├── priority_queue.cpp
 │   ├── set.cpp
+|   |── list.cpp
+|   |── vector.cp
 │   ├── sets-subarray-partition-O(n).cpp
-│   └── stack.cpp
+│   └── stack.cpp  
+├── Trees
+│   ├── inorder-tree-traversal-using-stack.cpp
+│   ├── inorder-tree-traversal-without-stack-without-recursion.cpp
+│   ├── inorder_tree_traversal_recursive.cpp
+│   ├── preorder_iterative_travelsal.cpp
+├── Strings
+│   ├── Rabin-Karp-Algorithm.cpp
+│   ├── Z-Function.cpp
 ├── Dynamic Programming
 │   ├── basic-fabonic.cpp
 │   ├── binomial-coefficients.cpp
@@ -108,4 +121,6 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
     ├── Kruskal-MST.cpp
     ├── a.out
     └── prims-MST.cpp
+    ├── Floyd-Warshall.cpp
+    ├── Kahn's-Topological-Sorting.cpp
 ```
