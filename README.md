@@ -39,6 +39,11 @@ This Repo is For those who want to contribute in an open Source Repo for Hacktob
 |   |── vector.cp
 │   ├── sets-subarray-partition-O(n).cpp
 │   └── stack.cpp  
+├── Trees
+│   ├── inorder-tree-traversal-using-stack.cpp
+│   ├── inorder-tree-traversal-without-stack-without-recursion.cpp
+│   ├── inorder_tree_traversal_recursive.cpp
+│   ├── preorder_iterative_travelsal.cpp
 ├── Strings
 │   ├── Rabin-Karp-Algorithm.cpp
 │   ├── Z-Function.cpp
